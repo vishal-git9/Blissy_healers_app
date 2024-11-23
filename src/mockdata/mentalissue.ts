@@ -1,0 +1,28 @@
+export const mentalIssues = [
+    { text: 'Breakup' },
+    { text: 'Addiction' },
+    { text: 'Alcoholism' },
+    { text: 'Anxiety' },
+    { text: 'Depression' },
+    { text: 'Stress' },
+    { text: 'Burnout' },
+    { text: 'Grief' },
+    { text: 'Loneliness' },
+    { text: 'Self-esteem Issues' },
+    { text: 'Relationship Issues' },
+    { text: 'Anger Management' },
+    { text: 'Eating Disorders' },
+    { text: 'Sleep Disorders' },
+    { text: 'Panic Attacks' },
+    { text: 'Social Anxiety' },
+    { text: 'Phobias' },
+    { text: 'Chronic Pain' },
+    { text: 'Bipolar Disorder' },
+    { text: 'Trauma' },
+    { text: 'Suicidal Thoughts' },
+    { text: 'Work-Related Stress' },
+    { text: 'Financial Stress' },
+    { text: 'Family Issues' },
+    { text: 'Childhood Trauma' }
+  ];
+  
