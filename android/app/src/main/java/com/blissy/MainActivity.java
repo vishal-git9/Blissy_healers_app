@@ -14,7 +14,7 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "blissy";
+    return "blissy_healers";
   }
 
       //changes made via react navigation
